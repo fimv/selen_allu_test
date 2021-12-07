@@ -1,0 +1,6 @@
+pages\BasePage.class
+util\AutoTestException.class
+pages\FirstPage.class
+pages\PasswordPage.class
+util\PropertyManager.class
+pages\LoginPage.class
